@@ -1,5 +1,5 @@
 <?php
 require_once("myDBC.php");
 session_destroy();
-header("Location: http://pruebas.ittlaxiacosistemas.com/php/index.php");
+header("Location: http://pruebas.ittlaxiacosistemas.com/Pruebas/");
 ?>
