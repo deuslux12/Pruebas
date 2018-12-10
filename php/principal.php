@@ -89,7 +89,7 @@ if(isset($_SESSION['session']))
     </ul>
 </div>
 </center>
-</div> 
+</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="../js/jquery.liveFilter.js" type="text/javascript"></script>
 <script type="text/javascript">$('#directory').liveFilter('#search-box', 'td', { filterChildSelector: '.name'});</script>
@@ -99,6 +99,6 @@ if(isset($_SESSION['session']))
 }else
 echo'<script type="text/javascript">
       alert("Registrarse para ver este contenido");
-      window.location="http://localhost/infetec/login/index.php"
+      window.location=" http://pruebas.ittlaxiacosistemas.com/Pruebas/"
 </script>';
 ?>
