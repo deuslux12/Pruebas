@@ -84,7 +84,7 @@ class myDBC {
 		{
 			  echo'<script type="text/javascript">
 				alert("Error al registrar! - Correo Duplicado - Ingresa otro");
-				window.location="http://localhost/inftec/login/php/registro.php"
+				window.location="http://pruebas.ittlaxiacosistemas.com/Pruebas/php/registro.php"
 				</script>';
 		}
 		//Sino hubo correo repetido
@@ -97,7 +97,7 @@ class myDBC {
 			if($result){ //Si resultado es true, se agregó correctamente
 					echo'<script type="text/javascript">
 						alert("Agregado Exitosamente");
-						window.location="http://localhost/inftec/login/index.php"
+						window.location="http://pruebas.ittlaxiacosistemas.com/Pruebas/"
 						</script>';
 						http://localhost/pruebalogeo/login/index.php
 			}
