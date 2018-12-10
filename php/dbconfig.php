@@ -1,6 +1,6 @@
 <?php
 	define("DB_SERVER", "localhost");
-	define("DB_USER", "root");
-	define("DB_PASS", "root");
-	define("DB_NAME", "login");
+	define("DB_USER", "ittlaxia_infotec");
+	define("DB_PASS", "Deuslux.12");
+	define("DB_NAME", "ittlaxia_infotec");
 ?>
