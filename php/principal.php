@@ -99,6 +99,6 @@ if(isset($_SESSION['session']))
 }else
 echo'<script type="text/javascript">
       alert("Registrarse para ver este contenido");
-      window.location=" http://pruebas.ittlaxiacosistemas.com/Pruebas/"
+      window.location=" http://infotec.ittlaxiacosistemas.com/"
 </script>';
 ?>
